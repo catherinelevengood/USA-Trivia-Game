@@ -1,0 +1,73 @@
+.answerchoice {
+	border: 1px solid white;
+  border-radius: 5%;
+	width: 40%;
+	color: blue(0,0,0);
+  text-align: left;
+  margin: 10px auto;
+  font-size: 18px;
+  background-color: white;
+
+}
+body {
+    background-image: url("../images/usa-flag.jpg");
+    background-size: cover;
+    font-family: 'Arial Narrow';
+    background-color: aliceblue;
+  }
+
+
+
+#answerblock {
+text-align: center;
+
+}
+
+#questionblock {
+   text-align: left;
+   font-weight: bold;
+}
+
+
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 50px;
+}
+img {
+  max-height: 180px;
+  width: auto;
+ }
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
+
+h2, h4 {
+  margin: 10px;
+  font-weight: bold;
+}
+#reset {
+  visibility: visible;
+  bottom: inherit;
+}
+
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
+.wrapper {
+  margin: 10px auto;
+  background-color: gray;
+  border: 2px solid #403fd3;
+  height: 300px;
+  width: 60%;
+  text-align: center;
+}
