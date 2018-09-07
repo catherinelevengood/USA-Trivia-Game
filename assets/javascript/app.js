@@ -63,9 +63,6 @@
     $(".start").hide();
     displayQuestion();
     runTimer();
-    for(var i = 0; i < questions.length; i++) {
-    holder.push(questions[i]);
-        }
             })
 //timer start
     function runTimer(){
