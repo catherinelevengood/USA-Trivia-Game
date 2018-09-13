@@ -5,7 +5,7 @@
     question: "Which State of USA was once part of Mexico?", 
         choice: ["Texas", "Maryland", "New York", "Alaska"],
         answer: 0,
-        photo: "../assets/images/texas.gif"
+        photo: "./assets/images/texas.gif"
     
              },
 
@@ -13,32 +13,32 @@
     question: "Who is the third President of USA?", 
         choice: ["Thomas Jefferson", "John Adams", "Abraham Lincoln", "George Washington"],
         answer: 0,
-        photo: "../assets/images/ThomasJefferson.gif"
+        photo: "./assets/images/ThomasJefferson.gif"
         
              }, 
              {
     question: "Which city is known as the Big Apple?", 
         choice: ["Los Angeles", "Washington", "Houston", "New York" ],
         answer: 3,
-        photo: "../assets/images/New-York-City.jpg"
+        photo: "./assets/images/New-York-City.jpg"
             }, 
             {
     question: "What is the number of state in USA?", 
         choice: ["24", "50", "60", "49" ],
         answer: 1,
-        photo: "../assets/images/map.gif"
+        photo: "./assets/images/map.gif"
             }, 
             {
     question: "Who had longest tenure as President of USA?", 
         choice: ["John F. Kennedy", "Franklin D. Roosevelt", "George Washington", "James Carter" ],
         answer: 1,
-        photo: "../assets/images/FRoosevelt.gif"
+        photo: "./assets/images/FRoosevelt.gif"
             }, 
             {
     question: "How many star are in the flag of USA?", 
         choice: ["50", "20", "60", "75" ],
         answer: 0,
-        photo: "../assets/images/star.jpg"
+        photo: "./assets/images/star.jpg"
             }
             ];
         //global variables
